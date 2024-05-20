@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "red_MR1",
+					"strict" : false
+				},
+				{
+					"name" : "green_MR1",
+					"strict" : false
+				},
+				{
+					"name" : "red_MR2",
+					"strict" : false
+				},
+				{
+					"name" : "green_MR2",
+					"strict" : false
+				},
+				{
+					"name" : "red_MR3",
+					"strict" : false
+				},
+				{
+					"name" : "green_MR3",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
