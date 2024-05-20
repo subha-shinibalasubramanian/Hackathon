@@ -1,20 +1,20 @@
 **Name : SUBHASHINI.B**  
 **Reg. No: 212223040211**   
 
-Aim:
+## Aim:
 To design and simulate a traffic light controller for an intersection of three main roads, where each road has equal priority. The controller should regulate the traffic flow efficiently, ensuring safety and smooth movement of vehicles while diverting the traffic to path 1 direction and disabling control in other directions.
-Apparatus Required:
+## Apparatus Required:
 1.	Hardware Description Language (HDL) simulation environment such as Verilog or VHDL.
 2.	Simulation software like ModelSim for testing and verification.
 3.	FPGA development board (optional) for hardware implementation.
-Procedure:
+## Procedure:
 1.	Define the State Machine
 2.	Implement the State Machine in HDL
 3.	Simulate the Design
 4.	Test the Design
 5.	Optimize and Refine
 
-State Table :
+## State Table :
 •	To define the states, inputs, outputs, and state transitions. 
 •	Let's denote the three main roads as MR1, MR2, and MR3. 
 •	Each road can have three possible states for its traffic light: Red, Yellow, and Green. Here's the state table:
@@ -26,7 +26,7 @@ State Table :
 •	The "MR1", "MR2", and "MR3" columns specify the traffic light states for each main road in the current state.
 •	"Red", "Yellow", and "Green" denote the states of the traffic lights.
 •	The counter counts from 0 to 9, where each count corresponds to one clock cycle.
-Code: 
+## Code: 
 
 ![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/5b696e19-ec79-407c-a4f6-2474894e9355)
 
@@ -44,14 +44,14 @@ Code:
 
 
 
-RTL Schematic View
+## RTL Schematic View
 
 ![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/1bc00223-ea16-4533-ac48-93f3e65db698)
 
  
 
 
-Output Waveforms
+## Output Waveforms
 
 
  ![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/c9e5cc3f-51ec-4cb0-abcc-1e334c8742d9)
