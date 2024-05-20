@@ -1,5 +1,5 @@
-Name : Rhudhresh
-Reg. No: 212223050039
+**Name : SUBHASHINI.B**  
+**Reg. No: 212223040211**   
 
 Aim:
 To design and simulate a traffic light controller for an intersection of three main roads, where each road has equal priority. The controller should regulate the traffic flow efficiently, ensuring safety and smooth movement of vehicles while diverting the traffic to path 1 direction and disabling control in other directions.
